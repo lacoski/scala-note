@@ -1,0 +1,7 @@
+~run
+1.to(10)
+1.to(10);
+println("Hello, Scala!");
+~run
+~
+~run

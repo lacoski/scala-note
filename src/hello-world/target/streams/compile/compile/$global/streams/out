@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/thanhnb/GitRepo/scala-note/src/hello-world/src/main/scala/BeforeAfter.scala:4:9: not found: value before[0m
+[0m[[0m[31merror[0m] [0m[0m        before {[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/thanhnb/GitRepo/scala-note/src/hello-world/src/main/scala/BeforeAfter.scala:9:9: not found: value after[0m
+[0m[[0m[31merror[0m] [0m[0m        after {[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
